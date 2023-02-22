@@ -18,10 +18,6 @@ class CharList extends Component {
 
   marvelService = new MarvelService();
 
-  componentDidMount() {
-    this.onRequest();
-  }
-
   onRequest = (offset) => {
     this.onCharListLoading();
     this.marvelService
@@ -29,6 +25,10 @@ class CharList extends Component {
       .then(this.onCharListLoaded)
       .catch(this.onError);
   };
+
+  componentDidMount() {
+    this.onRequest();
+  }
 
   onCharListLoading = () => {
     this.setState({
