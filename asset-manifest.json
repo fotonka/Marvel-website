@@ -5,8 +5,8 @@
     "main.css": "/marvel-website/static/css/main.97d069a3.chunk.css",
     "main.js": "/marvel-website/static/js/main.3474e99f.chunk.js",
     "main.js.map": "/marvel-website/static/js/main.3474e99f.chunk.js.map",
-    "runtime-main.js": "/marvel-website/static/js/runtime-main.1e3cc67d.js",
-    "runtime-main.js.map": "/marvel-website/static/js/runtime-main.1e3cc67d.js.map",
+    "runtime-main.js": "/marvel-website/static/js/runtime-main.966514f9.js",
+    "runtime-main.js.map": "/marvel-website/static/js/runtime-main.966514f9.js.map",
     "static/js/3.7843a070.chunk.js": "/marvel-website/static/js/3.7843a070.chunk.js",
     "static/js/3.7843a070.chunk.js.map": "/marvel-website/static/js/3.7843a070.chunk.js.map",
     "static/css/4.fe34669e.chunk.css": "/marvel-website/static/css/4.fe34669e.chunk.css",
@@ -18,8 +18,8 @@
     "static/css/6.8f85d1b3.chunk.css": "/marvel-website/static/css/6.8f85d1b3.chunk.css",
     "static/js/6.e2e1281b.chunk.js": "/marvel-website/static/js/6.e2e1281b.chunk.js",
     "static/js/6.e2e1281b.chunk.js.map": "/marvel-website/static/js/6.e2e1281b.chunk.js.map",
-    "static/js/7.9a2ee064.chunk.js": "/marvel-website/static/js/7.9a2ee064.chunk.js",
-    "static/js/7.9a2ee064.chunk.js.map": "/marvel-website/static/js/7.9a2ee064.chunk.js.map",
+    "static/js/7.821625ea.chunk.js": "/marvel-website/static/js/7.821625ea.chunk.js",
+    "static/js/7.821625ea.chunk.js.map": "/marvel-website/static/js/7.821625ea.chunk.js.map",
     "index.html": "/marvel-website/index.html",
     "static/css/4.fe34669e.chunk.css.map": "/marvel-website/static/css/4.fe34669e.chunk.css.map",
     "static/css/5.bfdf17ed.chunk.css.map": "/marvel-website/static/css/5.bfdf17ed.chunk.css.map",
@@ -33,7 +33,7 @@
     "static/media/vision.067d4ae1.png": "/marvel-website/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e3cc67d.js",
+    "static/js/runtime-main.966514f9.js",
     "static/js/3.7843a070.chunk.js",
     "static/css/main.97d069a3.chunk.css",
     "static/js/main.3474e99f.chunk.js"
