@@ -24,6 +24,7 @@ const Page404 = () => {
         }}
         to="/"
       >
+        This page shows you error, if you want see main page, please click here:
         Back to main page
       </Link>
     </div>
